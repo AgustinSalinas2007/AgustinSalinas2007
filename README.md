@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Whismur Jigglypuff GIF - Whismur Jigglypuff Pokemon - Discover   Share GIFs](https://github.com/user-attachments/assets/2824f5e2-4711-497d-9ad8-8e77769c6d06)
 
 <!--
 **AgustinSalinas2007/AgustinSalinas2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
