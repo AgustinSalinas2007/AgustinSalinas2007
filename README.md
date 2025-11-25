@@ -1,9 +1,9 @@
 ## Hi there 👋
-<p>
-  <em>Computer Science student reporting in — always learning, always building.</em>
-</p>
+Computer Science student reporting in — <em>always learning, always building.</em>
 
-![Whismur Jigglypuff GIF - Whismur Jigglypuff Pokemon - Discover   Share GIFs (1)](https://github.com/user-attachments/assets/bc2d17c5-0de3-4ba2-91f8-e2e4c7dff097)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AgustinSalinas2007/AgustinSalinas2007/main/assets/GIF.gif" width="400" />
+</div>
 
 ### About Me 🙌
 - 🌞 Born and raised in Argentina  
@@ -16,6 +16,7 @@
 - **Languages:** Java, Python, SQL, JavaScript, HTML/CSS, C++  
 - **Frameworks:** Spring Boot, Tkinter, Swing  
 - **Tools:** Github, VS Code, IntelliJ, MySQL Workbench, Windows Terminal
+  
 
 ---
 
