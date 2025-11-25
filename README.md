@@ -1,23 +1,17 @@
 ## Hi there 👋
-Computer Science student reporting in — <em>always learning, always building.</em>
-
+Computer Science student reporting in from Argentina ⭐⭐⭐
 <div align="center">
   <img src="https://raw.githubusercontent.com/AgustinSalinas2007/AgustinSalinas2007/main/assets/GIF.gif" width="400" />
 </div>
 
-### About Me 🙌
-- 🌞 Born and raised in Argentina  
-- 🎓 Final-year student in a technical high school in Computing
-- 💡 Passionate about software design and game dev  
-- 🤖 AI & Open-Source Friendly
-- 🚀 Always exploring new ways to improve my code  
+Currently in my final year of a technical high school in Computing, where I’ve grown a deep love for software design, game dev, and building things that actually work. 
+AI & Open-Source friendly, always learning and exploring new ways to improve my code.
 
 ### Technologies I use 🛠
 - **Languages:** Java, Python, SQL, JavaScript, HTML/CSS, C++  
 - **Frameworks:** Spring Boot, Tkinter, Swing  
 - **Tools:** Github, VS Code, IntelliJ, MySQL Workbench, Windows Terminal
   
-
 ---
 
 <p align="center"><em>Thanks for stopping by — feel free to explore my repos!</em></p>
