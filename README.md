@@ -3,9 +3,7 @@
   <em>Computer Science student reporting in — always learning, always building.</em>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AgustinSalinas2007/AgustinSalinas2007/main/assets/GIF.gif" width="300" />
-</div>
+![Whismur Jigglypuff GIF - Whismur Jigglypuff Pokemon - Discover   Share GIFs (1)](https://github.com/user-attachments/assets/bc2d17c5-0de3-4ba2-91f8-e2e4c7dff097)
 
 ### About Me 🙌
 - 🌞 Born and raised in Argentina  
