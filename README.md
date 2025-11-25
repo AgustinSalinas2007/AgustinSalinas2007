@@ -1,5 +1,27 @@
 ## Hi there 👋
-![Whismur Jigglypuff GIF - Whismur Jigglypuff Pokemon - Discover   Share GIFs](https://github.com/user-attachments/assets/2824f5e2-4711-497d-9ad8-8e77769c6d06)
+<p>
+  <em>Computer Science student reporting in — always learning, always building.</em>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AgustinSalinas2007/AgustinSalinas2007/main/assets/GIF.gif" width="300" />
+</div>
+
+### About Me 🙌
+- 🌞 Born and raised in Argentina  
+- 🎓 Final-year student in a technical high school in Computing
+- 💡 Passionate about software design and game dev  
+- 🤖 AI & Open-Source Friendly
+- 🚀 Always exploring new ways to improve my code  
+
+### Technologies I use 🛠
+- **Languages:** Java, Python, SQL, JavaScript, HTML/CSS, C++  
+- **Frameworks:** Spring Boot, Tkinter, Swing  
+- **Tools:** Github, VS Code, IntelliJ, MySQL Workbench, Windows Terminal
+
+---
+
+<p align="center"><em>Thanks for stopping by — feel free to explore my repos!</em></p>
 
 <!--
 **AgustinSalinas2007/AgustinSalinas2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
